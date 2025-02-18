@@ -30,8 +30,7 @@ Follow these steps to set up and run the projects:
 📂 iot-tutorial
  ├── 📁 docs           # Documentation and step-by-step guides
  ├── 📁 examples       # Sample IoT projects
- ├── 📁 firmware       # Microcontroller source codes
- ├── 📁 cloud          # Cloud integration scripts
+ ├── 📁 firmware       # Microcontroller source codes          
  ├── README.md        # Project overview
 ```
 
